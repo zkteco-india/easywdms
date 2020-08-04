@@ -1,0 +1,67 @@
+easyWDMS(Standard Version)
+
+
+8.5.3 Jul 27,2020
+
+1 Fix sync not happening issue after employee imported again(second import)
+2 Fix sync not happening issue after editing user photo in device
+3 Fix Face sync wrong sometimes after editing face in device because  cache not update  
+4 Fix Face cant sync to device sometimes(for ex.UFace402,because some parameters None)
+5 Fix Device State display issue
+
+
+8.5.2 Jul 14,2020
+
+1 jquery upgraded from 2.2.4 to 3.5.1 for some security issue
+2 Fixed the problem of automatic synchronization after importing employee
+3 Fixed other  automatic synchronization
+4 Optimized device communication, speed increased by 4 times
+6 Functions added to support palm device
+7 Changed some transalations
+
+
+8.5.1 24 Jun,2020
+
+1   django from 1.11.20 to 1.11.29
+2   apache from 2.4.39 to 2.4.43
+3   Support more access devices(Ex. V5L)
+4   Fix User is unable to clear one employee photo after uploading multiple bio-photos 
+5   Fix Bio-Photo is getting Approved automatically when user uploaded the photo in Employee details.
+
+
+8.5.0 May 29,2020
+
+1.  Add Masked Face/Fever  Detection
+2.  Fix area tree display issue
+3. Fix keyError when exporting excel if no data is there
+4. Redis update to 5.0.9 64bit
+
+
+8.4.1 Apr 20,2020
+
+Fix communication issue
+
+
+8.4.0 Apr 07,2020
+
+1.Update data export format
+2.Add company_id field for personnel_employee and iclock_transaction
+3.Add unique index  for personnel_employee, iclock_transaction , personnel_area, personnel_department to void duplicate data
+  (If duplicate data exists in the old database,you can run the following command under software folder.
+   python manage.py update_repeate_emp_code  )
+4.Python3.7.3 to Python3.7.7
+
+
+8.3.2 Mar 20,2020
+
+1.Fixed sync data bug
+2.Fixed upload logs from device
+3.Fixed whatsapp issue
+3.Improved reporting
+4.Improved installing
+
+8.3.0 Feb 12,2020
+
+8.2.0 Jan 20,2020
+
+

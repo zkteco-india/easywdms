@@ -1,0 +1,5 @@
+id=76,custom=76,m_devices=2,mods=base:adms:personnel:iclock,pushkey=0,company=trial,ecount=10000,app=500,whatsapp=500,upk=,time=,c_day=,m_days=90,verify=abL/xUyncg2xd2UCj1HfWD7CZejA7gCpz9qoUPsp88FcmO3Fs6teBxhQizEyS8CLTJrVXDLv1QLV
+tx8G7Qil1/GOIylSLGWkDDQs4/Oz7uRPcbJ6jwu+qZtwzgx+DDrJwu92Lgcj0LKcIPIKocodTqvU
+3Xv6Krqg7UThONAV1hBiq309L63a6Z+PqH9sohI3pw==
+
+
