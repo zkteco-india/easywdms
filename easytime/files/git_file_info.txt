@@ -74,7 +74,7 @@
     {
         "name": "mysite.zip",
         "path": "easytime/mysite.zip",
-        "sha": "d53efaa86c948447f28bf288a894123f9668843a",
+        "sha": "1e8e2fd85344c690499c1ff03922917c8b0a7bdb",
         "type": "file"
     },
     {
