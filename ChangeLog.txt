@@ -1,6 +1,15 @@
 easyWDMS(Standard Version)
 
 
+8.5.4 Oct 12,2020
+
+1 Add Card Count,User Photo Count,AttPhotoCount column in device list (need to upgrade push library)
+2 Fix some filter issues
+3 Change 'sync data to device'  to real-time execution instead of task schedule,for clicking frequently make software slowly
+4 apache update to 2.4.46
+5 Add online upgrade function.in easyTimePro/WDMS platform Service Console,'upgrade' button is added.
+
+
 8.5.3 Jul 27,2020
 
 1 Fix sync not happening issue after employee imported again(second import)
