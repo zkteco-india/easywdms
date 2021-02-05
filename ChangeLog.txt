@@ -1,6 +1,17 @@
 easyWDMS(Standard Version)
 
 
+9.0.0 Feb 1,2021
+
+1 Support multi company.Fetures:Employee ID,Department Code can be the same,so support build a small cloud system.
+
+2 Login UI changed
+
+3 attsite.ini   [SYS]  Multi_company=0   for Closing muti-company function
+
+4 Optimized some functions
+
+
 8.5.4 Oct 12,2020
 
 1 Add Card Count,User Photo Count,AttPhotoCount column in device list (need to upgrade push library)
